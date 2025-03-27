@@ -57,7 +57,7 @@ async function handleRequest(request) {
 --[[
   WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
-loadstring(game:HttpGet("https://pastes.io/raw/a-23283-23"))()
+loadstring(game:HttpGet("https://pastes.io/raw/h-22117-22"))()
 `;
 
   // Respond with the Roblox Lua script
